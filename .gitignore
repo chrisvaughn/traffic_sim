@@ -41,6 +41,7 @@ dist-ssr/
 *~
 .DS_Store
 *.iml
+.claude
 
 # OS
 .DS_Store
